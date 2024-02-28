@@ -37,11 +37,9 @@ This script automates the installation of the following programs:
 
 ## Keep Calm and Love Linux! 💖
 
-Remember, reinstalling Linux is a journey of learning and improvement. 
 This script is here to make your life a bit easier. 
 If you encounter any problems, take a deep breath and remember that each challenge is an opportunity to learn. You got this! 💪
 
 ---
 
-Made with ❤️ and a bit of Linux magic! 🧙‍♂️
 
