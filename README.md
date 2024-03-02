@@ -4,7 +4,7 @@
 
 Hello! If you're reading this, you're probably about to reinstall your favorite programs on Linux. Don't worry, this script is here to make it quick and painless
 
-# What does this dcript do? 
+ What does this sript do? 
 
 Its automates the installation of the following programs:
 - WPS Office 📊
@@ -16,7 +16,7 @@ Its automates the installation of the following programs:
 - Anaconda 🐍
 - R and RStudio 📈
 
-# How to use the script? 
+How to use the script? 
 
 1. Download the `setup.sh` script.
 2. Open the terminal and navigate to the directory where the script is located.
@@ -28,7 +28,7 @@ Its automates the installation of the following programs:
 
    ./setup.sh
 
-## Important notes ⚠️
+Important notes ⚠️
 
 - This script is intended for Debian-based Linux distributions (like Ubuntu).
 - Ensure you have a stable internet connection before running the script.
